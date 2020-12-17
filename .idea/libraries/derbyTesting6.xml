@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="derbyTesting6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/out/production/MidtownComics1/out/production/MidtownComics1/out/production/MidtownComics1/out/production/MidtownComics1/lib/db-derby-10.15.2.0-lib/test/derbyTesting.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

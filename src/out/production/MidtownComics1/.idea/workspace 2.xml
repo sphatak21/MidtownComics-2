@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db89f68a-40f7-43c5-bab8-7afa99b0d886" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CartItemPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/view/CartItemPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CartView.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/view/CartView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryItemPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/view/InventoryItemPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryView.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/view/InventoryView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidtownComics.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/MidtownComics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/model/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/view/OrderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaymentForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/view/PaymentForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductView.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/view/ProductView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/ucvts/comics/controller/ViewManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lZJ0aa7mtp5sfifHH0yKcRA3kf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MidtownComics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ucvts.comics.MidtownComics" />
+      <module name="MidtownComics1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ucvts.comics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MidtownComics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db89f68a-40f7-43c5-bab8-7afa99b0d886" name="Default Changelist" comment="" />
+      <created>1607798457699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607798457699</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="150" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1607811089585">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="150" y="142" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1607811089585" />
+    <state x="617" y="365" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607807271923">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="617" y="365" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1607807271923" />
+    <state x="122" y="306" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607809039713">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="122" y="306" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1607809039713" />
+    <state width="683" height="245" key="GridCell.Tab.0.bottom" timestamp="1607958450770">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="683" height="245" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1607958450770" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1607891213261" />
+    <state width="683" height="245" key="GridCell.Tab.0.center" timestamp="1607958450769">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="683" height="245" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1607958450769" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1607891213257" />
+    <state width="683" height="245" key="GridCell.Tab.0.left" timestamp="1607958450769">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="683" height="245" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1607958450769" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1607891213252" />
+    <state width="683" height="245" key="GridCell.Tab.0.right" timestamp="1607958450770">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="683" height="245" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1607958450770" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1607891213259" />
+  </component>
+</project>
